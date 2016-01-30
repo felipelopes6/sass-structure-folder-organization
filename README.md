@@ -1,5 +1,5 @@
-# estrutura-organização-css-sass
-Simples estrutura de organização CSS/SASS separada por modules, partials e vendor, com arquivo style.scss fazendo o @import das mesmas.
+# Sass structure folder organization
+Simple organization folder for CSS/SASS. separate bt modules, partials and vendor, with style.scss file, doing the @import the sames.
 
 * style.scss
 * Modules:
